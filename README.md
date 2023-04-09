@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuYeon&theme=flag-india&show_icons=true)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,r,eclipse,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,r,eclipse,git,figma&theme=light)](https://skillicons.dev)
+
