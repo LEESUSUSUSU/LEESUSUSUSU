@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuYeun &show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuYeun &layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuYeon&theme=flag-india&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pio023)](https://solved.ac/pio023/)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,r,eclipse,git,&theme=light)](https://skillicons.dev)
 
