@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuYeun&theme=flag-india &layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-[![SuYeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuYeun)](https://github.com/SuYeun/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pio023)](https://solved.ac/pio023/)
 
