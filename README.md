@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 <!--<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuYeun&theme=flag-india&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SuYeun&theme=flag-india&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuYeun&theme=flag-india &layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>-->
 
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuYeun&theme=flag-india&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<p align="left">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SuYeun&theme=flag-india&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYeun&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYeun&theme=flag-india&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pio023)](https://solved.ac/pio023/)
