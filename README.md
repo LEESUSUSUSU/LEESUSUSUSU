@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pio023)](https://solved.ac/pio023/)
 
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,git,python,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,git,&theme=light)](https://skillicons.dev)
 
