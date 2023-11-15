@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </p>-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pio023)](https://solved.ac/pio023/)
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,tensorflow,mysql,,git,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,tensorflow,mysql,git,&theme=light)](https://skillicons.dev)
 
