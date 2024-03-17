@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,tensorflow,mysql,git,&theme=light)](https://skillicons.dev)
 
 
----
+#Project
+
+- [youquiz]([https://github.com/username/project-repo](https://github.com/LEESUSUSUSU/youquiz)) - 유키즈 프로그램 시청률 예측 및 조회수 예측 프로젝트.
 
 
 
