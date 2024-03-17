@@ -30,3 +30,14 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pio023)](https://solved.ac/pio023/)
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,tensorflow,mysql,git,&theme=light)](https://skillicons.dev)
 
+
+---
+
+Hi there! 👋 I'm Su Yeon Lee , a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+
+🔭 I’m currently working on exciting projects involving machine learning and web development.
+🌱 I’m continuously learning and exploring new technologies to stay up-to-date.
+💬 Ask me about anything related to programming, AI, or technology.
+
+
+
