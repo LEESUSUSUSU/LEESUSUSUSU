@@ -33,11 +33,5 @@ Here are some ideas to get you started:
 
 ---
 
-Hi there! 👋 I'm Su Yeon Lee , a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
-
-🔭 I’m currently working on exciting projects involving machine learning and web development.
-🌱 I’m continuously learning and exploring new technologies to stay up-to-date.
-💬 Ask me about anything related to programming, AI, or technology.
-
 
 
