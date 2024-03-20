@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,tensorflow,mysql,git,&theme=light)](https://skillicons.dev)
 
 
-# Suyeon lee 😄
+# Suyeon Lee 😄
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pio023)](https://solved.ac/pio023/)
 
 
-Hi there! 👋 Suyeon lee a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+Hi there! 👋 Suyeon Lee a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 - 🔭 I’m currently working on exciting projects involving machine learning and web development.
 - 🌱 I’m continuously learning and exploring new technologies to stay up-to-date.
@@ -56,11 +56,12 @@ Here are some technologies and tools that I'm familiar with:
 Here are some of my notable projects:
 
 
-- [데이터 경진대회_기차대차의 이상소음 판별], <a href="https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg](https://suyeun.notion.site/AI-DATA-AI-fft-cnn-8b939e6cbd9f4e4390a5c6f8b3c48c24?pvs=4)https://suyeun.notion.site/AI-DATA-AI-fft-cnn-8b939e6cbd9f4e4390a5c6f8b3c48c24?pvs=4"> </a>
+- [데이터 경진대회_기차대차의 이상소음 판별], <a href="[https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4](https://suyeun.notion.site/AI-DATA-AI-fft-cnn-8b939e6cbd9f4e4390a5c6f8b3c48c24?pvs=4)">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
 
-- [대구 교통사고 피해 예측 AI 경진대회], <a href="https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4">Go to see the development log  <img width="23" src="[https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg](https://suyeun.notion.site/AI-DATA-AI-fft-cnn-8b939e6cbd9f4e4390a5c6f8b3c48c24?pvs=4)https://suyeun.notion.site/AI-DATA-AI-fft-cnn-8b939e6cbd9f4e4390a5c6f8b3c48c24?pvs=4](https://suyeun.notion.site/AI-xgboost-320c7cdfe7e24e08bb26b7e203b28bd7?pvs=4)https://suyeun.notion.site/AI-xgboost-320c7cdfe7e24e08bb26b7e203b28bd7?pvs=4"> </a>
+- [대구 교통사고 피해 예측 AI 경진대회], <a href="[https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4](https://suyeun.notion.site/AI-xgboost-320c7cdfe7e24e08bb26b7e203b28bd7?pvs=4)">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
+- [유퀴즈_시청률_조회수 예측_ai](https://github.com/sou05091/MainProject_LicensePlate), <a href="https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
 
-- [유퀴즈_시청률_조회수 예측_ai](https://github.com/JIeunhuh/K3MiniProject)
+
 
 
 
