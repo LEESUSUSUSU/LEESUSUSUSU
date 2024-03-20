@@ -56,9 +56,9 @@ Here are some technologies and tools that I'm familiar with:
 Here are some of my notable projects:
 
 
-- [데이터 경진대회_기차대차의 이상소음 판별], <a href="[https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4](https://suyeun.notion.site/AI-DATA-AI-fft-cnn-8b939e6cbd9f4e4390a5c6f8b3c48c24?pvs=4)">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
+- [데이터 경진대회_기차대차의 이상소음 판별] Go to see the development log  <img width="23" src="[https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg](https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4](https://suyeun.notion.site/AI-DATA-AI-fft-cnn-8b939e6cbd9f4e4390a5c6f8b3c48c24?pvs=4)"> </a>
 
-- [대구 교통사고 피해 예측 AI 경진대회], <a href="[https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4](https://suyeun.notion.site/AI-xgboost-320c7cdfe7e24e08bb26b7e203b28bd7?pvs=4)">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
+- [대구 교통사고 피해 예측 AI 경진대회] Go to see the development log  <img width="23" src="[https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg](https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4](https://suyeun.notion.site/AI-xgboost-320c7cdfe7e24e08bb26b7e203b28bd7?pvs=4)"> </a>
 - [유퀴즈_시청률_조회수 예측_ai](https://github.com/sou05091/MainProject_LicensePlate), <a href="https://shrub-snap-550.notion.site/02bdf271067b4de6bd30e72e18cc2522?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
 
 
