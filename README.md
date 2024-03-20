@@ -63,7 +63,7 @@ Here are some of my notable projects:
 - [대구 교통사고 피해 예측 AI 경진대회] <a href="https://www.notion.so/suyeun/83900228acec4c9ab1dd5f438bd22421?v=f47f21ede5694d9b96dd154fb6b66cd6&p=320c7cdfe7e24e08bb26b7e203b28bd7&pm=c">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
 
 
-- [유퀴즈_시청률_조회수 예측_ai](https://github.com/LEESUSUSUSU/youquiz),<a href="https://suyeun.notion.site/_-d76a587c4b9c4ab3b9f8102d189d8df5?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
+- [유퀴즈_시청률_조회수 예측_ai] , [유퀴즈_시청률_조회수 예측_ai](https://github.com/LEESUSUSUSU/youquiz),<a href="https://suyeun.notion.site/_-d76a587c4b9c4ab3b9f8102d189d8df5?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
 
 
 
