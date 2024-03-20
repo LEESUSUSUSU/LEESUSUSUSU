@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 # Suyeon lee 😄
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pio023)](https://solved.ac/pio023/)
-Hi there! 👋 I'm MinBeom Kim, a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
+
+
+Hi there! 👋 Suyeon lee a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 - 🔭 I’m currently working on exciting projects involving machine learning and web development.
 - 🌱 I’m continuously learning and exploring new technologies to stay up-to-date.
