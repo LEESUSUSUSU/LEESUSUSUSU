@@ -65,6 +65,8 @@ Here are some of my notable projects:
 
 - [유퀴즈_시청률_조회수 예측_ai] , [유퀴즈_시청률_조회수 예측_ai](https://github.com/LEESUSUSUSU/youquiz),<a href="https://suyeun.notion.site/_-d76a587c4b9c4ab3b9f8102d189d8df5?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
 
+- [시각 장애 보조를 위한 딥러닝 기반 장애물 인식] , [Deep-Learning-Based-Obstacle-Detection]([https://github.com/LEESUSUSUSU/Deep-Learning-Based-Obstacle-Detection]),<a href="https://canary-podium-567.notion.site/865ed22ff1a74839825809415f97a3ca?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
+
 
 
 
