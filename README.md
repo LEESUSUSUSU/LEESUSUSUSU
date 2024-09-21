@@ -58,7 +58,7 @@ Here are some of my notable projects:
 
 - [데이터 경진대회_기차대차의 이상소음 판별] <a href="https://suyeun.notion.site/AI-DATA-AI-fft-cnn-8b939e6cbd9f4e4390a5c6f8b3c48c24?pvs=4">Go to see the development log  <img width="23" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"> </a>
 
-- [제 2의 신약개발 경진대회를 위한 IC50 예측 모델] , [IC50-Prediction-Model-for-New-Drug-Development](https://github.com/LEESUSUSUSU/IC50-Prediction-Model-for-New-Drug-Development)
+- [제 2의 신약개발 경진대회를 위한 IC50 예측 모델] , [IC50-Prediction-Model-for-New-Drug-Development](https://github.com/LEESUSUSUSU/IC50-Prediction-Model-for-New-Drug-Development) Go to see the development log
 
 
 
