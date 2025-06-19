@@ -4,6 +4,7 @@ Hi there! 👋 Suyeon Lee a passionate developer and AI enthusiast. Welcome to m
 - 🔭 I’m currently working on exciting projects involving machine learning and web development.
 - 🌱 I’m continuously learning and exploring new technologies to stay up-to-date.
 - 💬 Ask me about anything related to programming, AI, or technology.
+- 🎓 Current Position: Researcher @ Seoul Asan Hospital (서울아산병원 연구원)
 
 ## Technologies and Tools
 
