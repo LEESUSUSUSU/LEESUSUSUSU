@@ -21,18 +21,12 @@ Here are some ideas to get you started:
 
 
 
-<!--<p align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SuYeun&theme=flag-india&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuYeun&theme=flag-india&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 </p>-->
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,tensorflow,mysql,git,&theme=light)](https://skillicons.dev)
 
 
-# Suyeon Lee 😄
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pio023)](https://solved.ac/pio023/)
 
 
 Hi there! 👋 Suyeon Lee a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
