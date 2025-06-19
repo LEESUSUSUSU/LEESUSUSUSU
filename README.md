@@ -50,6 +50,29 @@ Here are some technologies and tools that I'm familiar with:
 - Version Control:  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 - IDEs:  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
 
+
+
+## 🏆 Awards & Publications
+
+### 📄 Publications
+- **[Real-time Assault Detection Using Interaction Pose Analysis Based on Keypoint Sequences](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=H8EgeigAAAAJ&citation_for_view=H8EgeigAAAAJ:u5HHmVD_uO8C)**  
+  📝 *First Author*, Published at **IEEE ICTC 2024 (International Conference on ICT Convergence)**  
+  👤 Co-author: Doyeon Kim
+
+### 🥈 Competitions
+- **2nd Place**, *Acute Kidney Injury Prediction Datathon*  
+  🏥 Hosted by **Bundang Seoul National University Hospital**  
+  🗓️ 2024, Gyeonggi Bio Professional Training Program  
+  🧾 [Add Notion or report link here if available]
+
+---
+
+
+
+
+
+
+
 ## Projects
 
 Here are some of my notable projects:
@@ -72,24 +95,7 @@ Here are some of my notable projects:
 
 
 
-## 🏆 Awards & Publications
 
-### 📄 Publications
-- **1st Author**, *“Real-Time Assault Detection via Interaction Pose Analysis Based on Keypoint Sequences”*  
-  📍 Submitted and accepted at [학회명 혹은 "국내 학회 2024" 등]  
-  🔗 [Notion 링크 or PDF 링크 추가]
-
-### 🥈 Competitions
-- **2nd Place**, *Acute Kidney Injury Datathon*  
-  📍 Hosted by Bundang Seoul National University Hospital (분당서울대병원)  
-  🗓️ 2024, 경기 바이오 전문인력양성사업 미니 데이터톤  
-  🔗 [Notion 보고서 링크 또는 사진/URL 첨부 가능]
-
----
-
-## 🙏 Thanks!
-
-Thank you for visiting my GitHub!
 
 
 ## Thanks!
