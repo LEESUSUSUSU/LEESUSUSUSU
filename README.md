@@ -1,32 +1,4 @@
 
-
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
-</p>-->
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,tensorflow,mysql,git,&theme=light)](https://skillicons.dev)
-
-
-
-
 Hi there! 👋 Suyeon Lee a passionate developer and AI enthusiast. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 - 🔭 I’m currently working on exciting projects involving machine learning and web development.
