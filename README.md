@@ -57,8 +57,8 @@ Here are some technologies and tools that I'm familiar with:
 
 ### 📄 Publications
 - **[Real-time Assault Detection Using Interaction Pose Analysis Based on Keypoint Sequences](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=H8EgeigAAAAJ&citation_for_view=H8EgeigAAAAJ:u5HHmVD_uO8C)**  
-  📝 *First Author*, Published at **IEEE ICTC 2024**  
-  👤 Co-author: Doyeon Kim
+  📝 *First Author*, Published at **Proceedings of KIIT Conference,**  
+  
 
 - **“Identifying Negative Emotion in Adolescents Using Machine Learning Techniques Based on the Physiological Signal”**  
   📝 *Second Author*, Presented at **한국감성과학회 춘계학술대회 2025 (Volume 2025, Issue 1‑2, 2 pages)**  
@@ -70,7 +70,6 @@ Here are some technologies and tools that I'm familiar with:
 - **2nd Place**, *Acute Kidney Injury Prediction Datathon*  
   🏥 Hosted by **Bundang Seoul National University Hospital**  
   🗓️ 2024, Gyeonggi Bio Professional Training Program  
-  🧾 [Add Notion or report link here if available]
 
 ---
 
