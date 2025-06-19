@@ -72,7 +72,24 @@ Here are some of my notable projects:
 
 
 
+## 🏆 Awards & Publications
 
+### 📄 Publications
+- **1st Author**, *“Real-Time Assault Detection via Interaction Pose Analysis Based on Keypoint Sequences”*  
+  📍 Submitted and accepted at [학회명 혹은 "국내 학회 2024" 등]  
+  🔗 [Notion 링크 or PDF 링크 추가]
+
+### 🥈 Competitions
+- **2nd Place**, *Acute Kidney Injury Datathon*  
+  📍 Hosted by Bundang Seoul National University Hospital (분당서울대병원)  
+  🗓️ 2024, 경기 바이오 전문인력양성사업 미니 데이터톤  
+  🔗 [Notion 보고서 링크 또는 사진/URL 첨부 가능]
+
+---
+
+## 🙏 Thanks!
+
+Thank you for visiting my GitHub!
 
 
 ## Thanks!
