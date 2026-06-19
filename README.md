@@ -31,6 +31,11 @@ Here are some technologies and tools that I'm familiar with:
   👤 First Author: Young‑ji Eum · Co-author: Eun‑hye Jang · Co-author: Suyeon Lee  
   📅 May 2025
 
+- **[A Hybrid Framework for Sleep Indicator Prediction: Target-Specific Modeling with Traditional Machine Learning and Cross-Attentive CNN](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=H8EgeigAAAAJ&citation_for_view=H8EgeigAAAAJ:d1gkVwhDpl0C)**
+  📝 *First Author*, Published at **2025 16th International Conference on Information and Communication Technology Convergence (ICTC)**
+  👤 First Author: Suyeon Lee · Co-author: Doyeon Kim · Co-author: MyungJoo Song · Co-author: Young-Ji Eum
+  📅 Oct 2025
+
 
 ### 🥈 Competitions
 - **2nd Place**, *Acute Kidney Injury Prediction Datathon*  
